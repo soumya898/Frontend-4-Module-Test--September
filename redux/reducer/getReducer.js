@@ -1,4 +1,4 @@
-import { GET_FETCHING,GET_FETCHING_SUCCESS,GET_FETCHING_ERROR } from "../actions/actionTypes";
+import { GET_FETCHING,GET_FETCHING_SUCCESS,GET_FETCHING_ERROR } from "../actions/actionTypes"
 
 let initialState ={
     loading:false,
